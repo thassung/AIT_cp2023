@@ -1,0 +1,168 @@
+,country,health_index
+0,Singapore,86.89
+1,Japan,86.50
+2,South Korea,84.80
+3,"Taiwan, China",83.37
+4,China,83.11
+5,Israel,83.10
+6,Norway,82.98
+7,Iceland,82.72
+8,Sweden,82.28
+9,Switzerland,82.11
+10,Netherlands,82.05
+11,Luxembourg,81.59
+12,Germany,81.41
+13,Hong Kong,81.33
+14,Finland,81.19
+15,Denmark,81.07
+16,Italy,80.90
+17,Belgium,80.60
+18,Malta,80.54
+19,France,80.46
+20,Australia,80.36
+21,Austria,80.23
+22,Ireland,80.04
+23,Slovenia,79.88
+24,New Zealand,79.84
+25,Spain,79.66
+26,Cuba,79.53
+27,Czech Republic,79.49
+28,Cyprus,79.23
+29,Costa Rica,79.09
+30,Thailand,78.92
+31,Canada,78.88
+32,United Arab Emirates,78.38
+33,United Kingdom,78.31
+34,Uruguay,77.98
+35,Colombia,77.78
+36,Estonia,77.71
+37,Qatar,77.64
+38,Seychelles,77.44
+39,Portugal,77.44
+40,Greece,77.43
+41,Malaysia,77.35
+42,Kuwait,77.33
+43,Vietnam,76.99
+44,Slovakia,76.74
+45,Hungary,76.70
+46,Sri Lanka,76.58
+47,Poland,76.31
+48,Uzbekistan,76.28
+49,Bahrain,76.24
+50,Chile,76.06
+51,Peru,75.81
+52,Croatia,75.74
+53,Turkmenistan,75.59
+54,Oman,75.44
+55,Saudi Arabia,75.34
+56,Panama,75.10
+57,Iran,74.93
+58,Latvia,74.52
+59,Argentina,74.45
+60,Lithuania,74.43
+61,Belarus,74.34
+62,Turkey,74.19
+63,Trinidad and Tobago,74.13
+64,Bulgaria,74.11
+65,Albania,73.95
+66,Jamaica,73.83
+67,Armenia,73.48
+68,United States,73.26
+69,Algeria,73.22
+70,Mexico,73.09
+71,Romania,73.02
+72,Cabo Verde,72.75
+73,Macedonia,72.63
+74,Kyrgyzstan,72.46
+75,Tajikistan,72.46
+76,Kazakhstan,72.23
+77,Nicaragua,72.10
+78,Tunisia,72.05
+79,Serbia,71.93
+80,Mauritius,71.86
+81,Ecuador,71.80
+82,Brazil,71.68
+83,Russia,71.38
+84,Azerbaijan,71.25
+85,Morocco,71.17
+86,Indonesia,71.13
+87,Paraguay,70.84
+88,Dominican Republic,70.64
+89,Georgia,70.64
+90,Belize,70.61
+91,Cambodia,70.58
+92,Moldova,70.57
+93,São Tomé and Príncipe,70.54
+94,Bosnia and Herzegovina,70.50
+95,Philippines,70.06
+96,Venezuela,69.61
+97,El Salvador,69.35
+98,Honduras,69.01
+99,Jordan,68.92
+100,Ukraine,68.71
+101,Lebanon,68.65
+102,Montenegro,68.44
+103,Guatemala,68.33
+104,Libya,67.84
+105,Bangladesh,67.39
+106,Egypt,67.20
+107,Syria,67.16
+108,Myanmar,66.74
+109,Mongolia,66.74
+110,Laos,66.38
+111,India,66.16
+112,Bolivia,66.02
+113,Kenya,65.21
+114,Iraq,64.62
+115,Rwanda,64.60
+116,Senegal,64.44
+117,Nepal,63.87
+118,Ghana,63.08
+119,Guyana,62.47
+120,Malawi,61.01
+121,Ethiopia,60.91
+122,Suriname,60.80
+123,Pakistan,60.78
+124,Namibia,60.64
+125,Djibouti,60.55
+126,Sudan,60.55
+127,Tanzania,60.07
+128,South Africa,59.90
+129,Comoros,59.60
+130,Botswana,59.07
+131,Burkina Faso,58.72
+132,Uganda,58.49
+133,Burundi,58.16
+134,Eritrea,57.49
+135,Yemen,57.45
+136,Zambia,57.20
+137,Mauritania,56.74
+138,Gambia,56.18
+139,Gabon,56.07
+140,Zimbabwe,55.46
+141,Togo,55.09
+142,Niger,54.60
+143,Mali,54.47
+144,Madagascar,54.12
+145,Congo,54.10
+146,Benin,53.50
+147,Haiti,52.93
+148,Papua New Guinea,52.87
+149,Mozambique,52.84
+150,Côte d'Ivoire,51.81
+151,Cameroon,51.02
+152,Afghanistan,50.91
+153,Democratic Republic of Congo,50.90
+154,Guinea-Bissau,50.87
+155,Equatorial Guinea,50.41
+156,Nigeria,50.12
+157,Angola,49.88
+158,Guinea,48.65
+159,Liberia,48.64
+160,Swaziland,48.43
+161,Sierra Leone,48.26
+162,Somalia,44.38
+163,Lesotho,41.30
+164,Chad,39.17
+165,South Sudan,35.69
+166,Central African Republic,31.95
