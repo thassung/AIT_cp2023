@@ -5,7 +5,7 @@ import pickle
 
 app = Flask(__name__, template_folder = 'templates')
 
-model = joblib.load('RandomForest.pkl')
+model = joblib.load('LightGBM.pkl')
 
 def atlas(country):
     map = pd.read_csv('./data/atlas.csv')
@@ -79,4 +79,4 @@ def predict():
     return jsonify(result), 200
         
 if __name__ == "__main__":
-    app.run(host='127.0.0.1',port='8080',debug=False)
+    app.run(host='127.0.0.1',port='8000',debug=False)
